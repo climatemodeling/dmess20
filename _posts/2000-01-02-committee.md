@@ -1,11 +1,10 @@
 ---
-title: "Program Committee"
+title: "Committee"
 bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: paint-brush
 ---
 
-#### Program Committee
 
 <ul>
 <li> <b><a target="_blank" href="http://web.eecs.utk.edu/~mberry/">Michael W. Berry</a></b> (Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee, USA)</li><!-- confirmed 24-Apr-2018 -->
