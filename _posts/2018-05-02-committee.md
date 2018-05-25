@@ -1,4 +1,11 @@
-<h3>Program Committee Members:</h3>
+---
+title: "Art"
+bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
+color: white   #text color
+fa-icon: paint-brush
+---
+
+### Program Committee
 
 <p><ul>
 <li> <b><a target="_blank" href="http://web.eecs.utk.edu/~mberry/">Michael W. Berry</a></b> (Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee, USA)</li><!-- confirmed 24-Apr-2018 -->
