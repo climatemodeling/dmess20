@@ -1,7 +1,7 @@
 ---
 title: "Submission"
 bg: orange  #defined in _config.yml, can use html color like '#0fbfcf'
-color: white   #text color
+color: Chocolate   #text color
 fa-icon: edit
 ---
 
