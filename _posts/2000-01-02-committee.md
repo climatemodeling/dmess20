@@ -1,6 +1,6 @@
 ---
 title: "Committee"
-bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: Olive  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: users
 ---
