@@ -74,6 +74,6 @@ cyclones from historical climate data.
 <li> <b><a target="_blank" href="http://www-users.cs.umn.edu/~ksteinha/">Karsten Steinhaeuser</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/min-xu">Min Xu</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li><!-- confirmed 22-Apr-2018 -->
 <li> <b><a target="_blank" href="https://sites.google.com/view/sanderveraverbeke/sander-veraverbeke"> Sander Veraverbeke </a></b> (Vrije Universiteit Amsterdam, Amsterdam, NETHERLANDS) </li>  
-<li> <b><a target="_blank" href=""> Yawei Hui (Computer Science & Mathematics Division </a></b>, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA) </li>  
+<li> <b><a target="_blank" href="https://csmd.ornl.gov/profile/yawei-hui"> Yawei Hui (Computer Science & Mathematics Division </a></b>, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA) </li>  
 </ul>
 
