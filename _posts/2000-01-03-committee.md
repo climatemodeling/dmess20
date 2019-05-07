@@ -43,14 +43,14 @@ High Performance Computing, Performance Analytics, Exascale Co-design,
 Optimization Algorithms, Computational Intelligence, Parallel I/O,
 Performance Analysis and Optimization.
 
- * <b><a target="_blank" href="http://sookyung.net/">Sookyung Kim</a></b> 
-is a postdoctoral researcher at Lawrence Livermore
-National Laboratory, pursuing research in deep learning for climate data
-analysis. She works on design and development of convolutional neural
-networks (CNNs) to detect and localize hurricanes in massive climate
-model output and development of models to track time sequenced tropical
-cyclones from historical climate data.
-
+* <a target="_blank" href="http://www.sarats.com/"><b>Vamsi Sripathi</b></a> 
+is a Senior Software Engineer at Intel. He has a Masters’ degree in Computer
+Science from North Carolina State University. During his tenure at Intel, he has worked on the
+performance optimization of Basic Linear Algebra Subroutines (BLAS) in Intel Math Kernel
+Library (MKL) spanning multiple generations of Intel Xeon and Intel Xeon Phi architectures.
+Recently, he has been working on the optimization of deep learning algorithms and contributed
+to Caffe and TensorFlow frameworks.
+ 
 ### Program Committee 
 <ul>
 <li> <b><a target="_blank" href="http://web.eecs.utk.edu/~mberry/">Michael W. Berry</a></b> (Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee, USA)</li><!-- confirmed 24-Apr-2018 -->
