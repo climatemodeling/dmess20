@@ -22,8 +22,7 @@ as lead convener for all six prior workshops. Forrest is also a Joint
 Faculty Professor in the University of Tennessee&rsquo;s Department of
 Civil &amp; Environmental Engineering in nearby Knoxville, Tennessee.
 
- * <a target="_blank" href="http://www.climatemodeling.org/~jkumar/">
-<b>Jitendra Kumar</b></a>
+ * <a target="_blank" href="http://www.climatemodeling.org/~jkumar/"> <b>Jitendra Kumar</b></a>
 is a computational hydrologist at Oak Ridge National Laboratory
 and a Joint Assistant Professor at the University of Tennessee,
 Knoxville. He conducts research at the intersection of high performance
@@ -33,7 +32,7 @@ optimization, computational hydrology and hydrogeology, landscape ecology,
 remote sensing, and development of parallel algorithms for large-scale
 supercomputers.
 
- * <a target="_blank" href="http://www.sarats.com/"><b>Sarat
+ * <a target="_blank" href="https://sarats.com/"><b>Sarat
 Sreepathi</b></a> is a Computer Scientist in the Future Technologies
 Group at Oak Ridge National Laboratory. He is working on development of
 the E3SM-Multiscale Modeling Framework (MMF) as part of the Exascale
@@ -43,7 +42,7 @@ High Performance Computing, Performance Analytics, Exascale Co-design,
 Optimization Algorithms, Computational Intelligence, Parallel I/O,
 Performance Analysis and Optimization.
 
-* <a target="_blank" href="http://www.sarats.com/"><b>Vamsi Sripathi</b></a> 
+* <a target="_blank" href="http://vamsis.com/"><b>Vamsi Sripathi</b></a> 
 is a Senior Software Engineer at Intel. He has a Masters’ degree in Computer
 Science from North Carolina State University. During his tenure at Intel, he has worked on the
 performance optimization of Basic Linear Algebra Subroutines (BLAS) in Intel Math Kernel
@@ -53,7 +52,6 @@ to Caffe and TensorFlow frameworks.
  
 ### Program Committee 
 <ul>
-<li> <b><a target="_blank" href="http://web.eecs.utk.edu/~mberry/">Michael W. Berry</a></b> (Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee, USA)</li><!-- confirmed 24-Apr-2018 -->
 <li> <b><a target="_blank" href="https://www.geobabble.org/~bjorn/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li><!-- confirmed 25-Apr-2018 -->
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/nathan-collier">Nathan Collier</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li><!-- confirmed 22-Apr-2018 -->
 <li> <b><a target="_blank" href="http://www.civ.neu.edu/people/ganguly-auroop">Auroop R. Ganguly</a></b>  (Department of Civil and Environmental Engineering, Northeastern University, Boston, Massachusetts, USA)</li><!-- confirmed 22-Apr-2018 -->
@@ -73,7 +71,5 @@ to Caffe and TensorFlow frameworks.
 <li> <b>Vamsi Sripathi</b> (Intel Corporation, Hillsboro, Oregon, USA)</li><!-- confirmed 23-Apr-2018 -->
 <li> <b><a target="_blank" href="http://www-users.cs.umn.edu/~ksteinha/">Karsten Steinhaeuser</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/min-xu">Min Xu</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li><!-- confirmed 22-Apr-2018 -->
-<li> <b><a target="_blank" href="https://sites.google.com/view/sanderveraverbeke/sander-veraverbeke"> Sander Veraverbeke </a></b> (Vrije Universiteit Amsterdam, Amsterdam, NETHERLANDS) </li>  
-<li> <a target="_blank" href="https://csmd.ornl.gov/profile/yawei-hui"><b>Yawei Hui</b></a> (Computer Science & Mathematics Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA) </li>  
 </ul>
 
