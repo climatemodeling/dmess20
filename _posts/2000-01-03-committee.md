@@ -53,7 +53,7 @@ to Caffe and TensorFlow frameworks.
 ### Program Committee 
 <ul>
 <li> <b><a target="_blank" href="https://www.geobabble.org/~bjorn/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li><!-- confirmed 25-Apr-2018 -->
- <li> <a target="_blank" href="https://www.iitgn.ac.in/faculty/civil/udit.htm"> <b>Udit Bhatia </a></b> (IIT Gandhinagar, Gujarat, India)</li>
+ <li> <b><a target="_blank" href="https://www.iitgn.ac.in/faculty/civil/udit.htm">Udit Bhatia </a></b> (IIT Gandhinagar, Gujarat, India)</li>
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/nathan-collier">Nathan Collier</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li><!-- confirmed 22-Apr-2018 -->
 <li> <b><a target="_blank" href="http://www.civ.neu.edu/people/ganguly-auroop">Auroop R. Ganguly</a></b>  (Department of Civil and Environmental Engineering, Northeastern University, Boston, Massachusetts, USA)</li><!-- confirmed 22-Apr-2018 -->
 <li> <b><a target="_blank" href="https://www.nasa.gov/centers/ames/earthscience/members/biosphericsciencebranch/Sangram_Ganguly" >Sangram Ganguly</a></b>  (Bay Area Environmental Research Institute and NASA Ames Research Center, California, USA)</li><!-- confirmed 3-May-2018 -->
@@ -70,8 +70,8 @@ to Caffe and TensorFlow frameworks.
 <li> <b><a target="_blank" href="http://sarats.com/">Sarat Sreepathi</a></b> (Computer Science &amp; Mathematics Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
 <li> <b>Vamsi Sripathi</b> (Intel Corporation, Hillsboro, Oregon, USA)</li><!-- confirmed 23-Apr-2018 -->
 <li> <b><a target="_blank" href="http://www-users.cs.umn.edu/~ksteinha/">Karsten Steinhaeuser</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
+<li> <b><a target="_blank" href="https://thomasvandal.com/"> TJ Vandal</a></b> (NASA Ames Research Center, Moffett Field, California, USA)</li>
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/min-xu">Min Xu</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li><!-- confirmed 22-Apr-2018 -->
- <li> <b><a target="_blank" href="https://thomasvandal.com/"> TJ Vandal</a></b> (NASA Ames Research Center, Moffett Field, California, USA)</li>
-
+ 
 </ul>
 
