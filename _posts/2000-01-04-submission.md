@@ -14,18 +14,18 @@ Manuscripts must be submitted electronically in [online submission system](http:
 <!--Please submit your paper via [this website](https://goo.gl/QFuaQQ)
 For manuscripts that have been accepted to the workshop, please submit camera-ready papers via <a href="https://goo.gl/QFuaQQ">this website</a> and complete the copyright forms and upload papers for publication via <a href="https://ieeecps.org/#!/auth/login?ak=1&pid=6qZsj8IdsZR9zubI2Im6cT">IEEE CPS website</a> by September 8, 2019.-->
 
----
+----------
 All submissions will be triple-blind reviewed by the Program Committee on the basis of technical quality, relevance to scope of the workshop, originality, significance, and clarity. The following sections give further information for authors.
 
-== Triple blind submission guidelines
+#### Triple blind submission guidelines
 
 Since 2011, ICDM has imposed a triple blind submission and review policy for all submissions. Authors must hence not use identifying information in the text of the paper and bibliographies must be referenced to preserve anonymity. Any papers available on the Web (including Arxiv) no longer qualify for ICDM submissions, as their author information is already public.
 
-== What is triple blind reviewing?
+#### What is triple blind reviewing?
 
 The traditional blind paper submission hides the referee names from the authors, and the double-blind paper submission also hides the author names from the referees. The triple-blind reviewing further hides the referee names among referees during paper discussions before their acceptance decisions. The names of authors and referees remain known only to the PC Co-chairs, and the author names are disclosed only after the ranking and acceptance of submissions are finalized. It is imperative that all authors of ICDM submissions conceal their identity and affiliation information in their paper submissions. It does not suffice to simply remove the author names and affiliations from the first page, but also in the content of each paper submission.
 
-== How to prepare your submissions
+#### How to prepare your submissions
 
 The authors shall omit their names from the submission. For formatting templates with author and institution information, simply replace all these information in the template by “Anonymous”.
 
