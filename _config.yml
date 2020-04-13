@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "DMESS 2019 - Ninth Workshop on Data Mining in Earth System Science"
-keywords:    "DMESS 2019, Ninth Workshop, Data Mining, Earth System Science"
-description: "Ninth Workshop on Data Mining in Earth System Science (DMESS) in 2019"
-source_link: "https://github.com/climatemodeling/dmess19"
+title:       "DMESS 2020 - Tenth Workshop on Data Mining in Earth System Science"
+keywords:    "DMESS 2020, Tenth Workshop, Data Mining, Earth System Science"
+description: "Tenth Workshop on Data Mining in Earth System Science (DMESS) in 2020"
+source_link: "https://github.com/climatemodeling/dmess20"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)

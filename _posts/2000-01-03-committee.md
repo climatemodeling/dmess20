@@ -42,6 +42,7 @@ High Performance Computing, Performance Analytics, Exascale Co-design,
 Optimization Algorithms, Computational Intelligence, Parallel I/O,
 Performance Analysis and Optimization.
 
+<!--
 * <a target="_blank" href="http://vamsis.com/"><b>Vamsi Sripathi</b></a> 
 is a Senior Software Engineer at Intel. He has a Masters’ degree in Computer
 Science from North Carolina State University. During his tenure at Intel, he has worked on the
@@ -49,7 +50,8 @@ performance optimization of Basic Linear Algebra Subroutines (BLAS) in Intel Mat
 Library (MKL) spanning multiple generations of Intel Xeon and Intel Xeon Phi architectures.
 Recently, he has been working on the optimization of deep learning algorithms and contributed
 to Caffe and TensorFlow frameworks.
- 
+ -->
+
 ### Program Committee 
 <ul>
 <li> <b><a target="_blank" href="https://www.geobabble.org/~bjorn/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li><!-- confirmed 25-Apr-2018 -->
