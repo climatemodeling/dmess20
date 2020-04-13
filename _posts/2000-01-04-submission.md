@@ -6,11 +6,11 @@ fa-icon: edit
 ---
 
 
-Authors are invited to submit manuscripts of 8 pages (10 pages maximum for additional fee) reporting unpublished, mature, and original research and recent developments/theoretical considerations in applications of data mining to Earth sciences by August 7, 2019. Paper submissions should be in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html), including the bibliography and any possible appendices. 
+Authors are invited to submit manuscripts of 8 pages (10 pages maximum for additional fee) reporting unpublished, mature, and original research and recent developments/theoretical considerations in applications of data mining to Earth sciences by August 24, 2020. Paper submissions should be in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html), including the bibliography and any possible appendices. 
 
 Accepted papers will be published in the conference proceedings by the IEEE Computer Society Press.  _Submission implies the willingness of at least one of the authors to register and present the paper_.
 
-Manuscripts must be submitted electronically in [online submission system](https://wi-lab.com/cyberchair/2019/icdm19/scripts/submit.php?subarea=S07). 
+Manuscripts must be submitted electronically in [online submission system](https://wi-lab.com/cyberchair/2020/icdm20/scripts/submit.php?subarea=S07). 
 <!--Please submit your paper via [this website](https://goo.gl/QFuaQQ)
 For manuscripts that have been accepted to the workshop, please submit camera-ready papers via <a href="https://goo.gl/QFuaQQ">this website</a> and complete the copyright forms and upload papers for publication via <a href="https://ieeecps.org/#!/auth/login?ak=1&pid=6qZsj8IdsZR9zubI2Im6cT">IEEE CPS website</a> by September 8, 2019.-->
 
@@ -31,4 +31,7 @@ The authors shall omit their names from the submission. For formatting templates
 
 In the submission, the authors’ should refer to their own prior work like the prior work of any other author, and include all relevant citations. This can be done either by referring to their prior work in the third person or referencing papers generically. For example, if your name is Smith and you have worked on clustering, instead of saying “We extend our earlier work on distance-based clustering (Smith 2005),” you might say “We extend Smith’s (Smith 2005) earlier work on distance-based clustering.” The authors shall exclude citations to their own work which is not fundamental to understanding the paper, including prior versions (e.g., technical reports, unpublished internal documents) of the submitted paper. Hence, do not write: “In our previous work [3]” as it reveals that citation 3 is written by the current authors. The authors shall remove mention of funding sources, personal acknowledgments, and other such auxiliary information that could be related to their identities. These can be reinstituted in the camera-ready copy once the paper is accepted for publication. The authors shall make statements on well-known or unique systems that identify an author, as vague in respect to identifying the authors as possible. The submitted files shall be named with care to ensure that author anonymity is not compromised by the file name. For example, do not name your submission “Smith.pdf”, instead give it a name that is descriptive of the title of your paper, such as “ANewApproachtoClustering.pdf” (or a shorter version of the same).
 
+Algorithms and resources used in a paper should be described as completely as possible to allow reproducibility. This includes experimental methodology, empirical evaluations, and results. Authors are strongly encouraged to make their code and data publicly available whenever possible. In addition, authors are strongly encouraged to also report, whenever possible, results for their methods on publicly available datasets.
+
+All manuscripts are submitted as full papers and are reviewed based on their scientific merit. There is no separate abstract submission step. There are no separate industrial, application, short paper or poster tracks during submission. 
 
