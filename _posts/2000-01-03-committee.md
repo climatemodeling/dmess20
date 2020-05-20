@@ -65,7 +65,7 @@ to Caffe and TensorFlow frameworks.
 ### Program Committee 
 <ul>
 <li> <b><a target="_blank" href="https://ncics.org/people/bjorn-brooks-2/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (North Carolina Institute for Climate Studies, Asheville, North Carolina, USA)</li>
-<li> <b><a target="_blank" href="https://www.iitgn.ac.in/faculty/civil/udit.htm">Udit Bhatia </a></b> (IIT Gandhinagar, Gujarat, India)</li>
+<li> <b><a target="_blank" href="https://www.iitgn.ac.in/faculty/civil/udit.htm">Udit Bhatia </a></b> (IIT Gandhinagar, Gujarat, INDIA)</li>
 <li> <b><a target="_blank" href="https://www.uv.es/gcamps/">Gustau Camp-Valls</a></b> (Image Processing Laboratory, University of Valencia, Valencia, SPAIN)</li>
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/nathan-collier">Nathan Collier</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
 <li> <b><a target="_blank" href="http://www.civ.neu.edu/people/ganguly-auroop">Auroop R. Ganguly</a></b>  (Department of Civil and Environmental Engineering, Northeastern University, Boston, Massachusetts, USA)</li>
