@@ -7,7 +7,7 @@ fa-icon: users
 ### Workshop Co-conveners
 
  * <a target="_blank"
-href="http://www.climatemodeling.org/~forrest/"><b>Forrest
+href="https://www.climatemodeling.org/~forrest/"><b>Forrest
 M. Hoffman</b></a> is a Senior Computational Climate Scientist at
 Oak Ridge National Laboratory (ORNL). As a resident researcher in
 ORNL&rsquo;s Climate Change Science Institute (CCSI) and a member of
@@ -22,7 +22,7 @@ as lead convener for all six prior workshops. Forrest is also a Joint
 Faculty Professor in the University of Tennessee&rsquo;s Department of
 Civil &amp; Environmental Engineering in nearby Knoxville, Tennessee.
 
- * <a target="_blank" href="http://www.climatemodeling.org/~jkumar/"> <b>Jitendra Kumar</b></a>
+ * <a target="_blank" href="https://www.climatemodeling.org/~jkumar/"> <b>Jitendra Kumar</b></a>
 is a computational hydrologist at Oak Ridge National Laboratory
 and a Joint Assistant Professor at the University of Tennessee,
 Knoxville. He conducts research at the intersection of high performance
@@ -42,6 +42,16 @@ High Performance Computing, Performance Analytics, Exascale Co-design,
 Optimization Algorithms, Computational Intelligence, Parallel I/O,
 Performance Analysis and Optimization.
 
+ * <a target="_blank" href="https://www.uv.es/gcamps/"><b>Gustau
+ Camps-Valls</b></a> is a Full Professor in the Department of
+ Electrical Engineering at the University of Valencia, SPAIN. He
+ conducts research in the Image and Signal Processing Group (ISP) in the
+ Image Processing Laboratory (IPL), where he develops data analysis
+ techniques that combine machine learning theory with the understanding
+ of the underlying physics. He develops kernel-based methods for
+ hyperspectral image classification and applies support vector machine
+ and other algorithms in support of geoscience research.
+
 <!--
 * <a target="_blank" href="http://vamsis.com/"><b>Vamsi Sripathi</b></a> 
 is a Senior Software Engineer at Intel. He has a Masters’ degree in Computer
@@ -56,6 +66,7 @@ to Caffe and TensorFlow frameworks.
 <ul>
 <li> <b><a target="_blank" href="https://ncics.org/people/bjorn-brooks-2/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (North Carolina Institute for Climate Studies, Asheville, North Carolina, USA)</li>
 <li> <b><a target="_blank" href="https://www.iitgn.ac.in/faculty/civil/udit.htm">Udit Bhatia </a></b> (IIT Gandhinagar, Gujarat, India)</li>
+<li> <b><a target="_blank" href="https://www.uv.es/gcamps/">Gustau Camp-Valls</a></b> (Image Processing Laboratory, University of Valencia, Valencia, SPAIN)</li>
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/nathan-collier">Nathan Collier</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
 <li> <b><a target="_blank" href="http://www.civ.neu.edu/people/ganguly-auroop">Auroop R. Ganguly</a></b>  (Department of Civil and Environmental Engineering, Northeastern University, Boston, Massachusetts, USA)</li>
 <li> <b><a target="_blank" href="https://www.geobabble.org/~hnw">William W. Hargrove</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li>
