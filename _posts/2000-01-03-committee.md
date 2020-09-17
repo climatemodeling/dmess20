@@ -64,8 +64,8 @@ to Caffe and TensorFlow frameworks.
 
 ### Program Committee 
 <ul>
-<li> <b><a target="_blank" href="https://ncics.org/people/bjorn-brooks-2/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (North Carolina Institute for Climate Studies, Asheville, North Carolina, USA)</li>
 <li> <b><a target="_blank" href="https://www.iitgn.ac.in/faculty/civil/udit.htm">Udit Bhatia </a></b> (IIT Gandhinagar, Gujarat, INDIA)</li>
+<li> <b><a target="_blank" href="https://ncics.org/people/bjorn-brooks-2/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (North Carolina Institute for Climate Studies, Asheville, North Carolina, USA)</li>
 <li> <b><a target="_blank" href="https://www.uv.es/gcamps/">Gustau Camps-Valls</a></b> (Image Processing Laboratory, University of Valencia, Valencia, SPAIN)</li>
 <li> <b><a target="_blank" href="https://nocollier.github.io/">Nathan Collier</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
 <li> <b><a target="_blank" href="http://www.civ.neu.edu/people/ganguly-auroop">Auroop R. Ganguly</a></b>  (Department of Civil and Environmental Engineering, Northeastern University, Boston, Massachusetts, USA)</li>
@@ -75,6 +75,7 @@ to Caffe and TensorFlow frameworks.
 <li> <b><a target="_blank" href="http://sookyung.net/">Soo Kyung Kim</a></b> (Lawrence Livermore National Laboratory, Livermore, California, USA)</li>
 <li> <b><a target="_blank" href="https://www.climatemodeling.org/~jkumar">Jitendra Kumar</a></b> (Terrestrial Systems Modeling Group,  Environmental Sciences Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
 <li> <b><a target="_blank" href="https://www-users.cs.umn.edu/~kumar001/">Vipin Kumar</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
+ <li> <b><a target="_blank" href="https://www.linkedin.com/in/kuldeepkurte">Kuldeep Kurte</a></b> (Computational Sciences and Engineering Division, Oak Ridge National Laboratory, USA)</li>
 <li> <b><a target="_blank" href="https://langfordzl.github.io/">Zachary L. Langford</a></b> (Cyber &amp; Applied Data Analytics Division, Oak Ridge National Laboratory, USA)</li>
 <li> <b><a target="_blank" href="https://rsc4earth.de/authors/mmahecha/">Miguel D. Mahecha</a></b> (Remote Sensing Center for Earth System Research, University of Leipzig, Leipzig, GERMANY)</li>
 <li> <b><a target="_blank" href="https://climatemodeling.org/~rmills/">Richard T. Mills</a></b> (Laboratory for Advanced Numerical Simulations, Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois, USA)</li>
