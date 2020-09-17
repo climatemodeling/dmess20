@@ -76,7 +76,7 @@ to Caffe and TensorFlow frameworks.
 <li> <b><a target="_blank" href="https://www.climatemodeling.org/~jkumar">Jitendra Kumar</a></b> (Terrestrial Systems Modeling Group,  Environmental Sciences Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
 <li> <b><a target="_blank" href="https://www-users.cs.umn.edu/~kumar001/">Vipin Kumar</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
 <li> <b><a target="_blank" href="https://langfordzl.github.io/">Zachary L. Langford</a></b> (Cyber &amp; Applied Data Analytics Division, Oak Ridge National Laboratory, USA)</li>
-<li> <b><a target="_blank" href="https://www.bgc-jena.mpg.de/bgi/index.php/People/MiguelMahecha">Miguel D. Mahecha</a></b> (Remote Sensing Center for Earth System Research, University of Leipzig, Leipzig, GERMANY)</li>
+<li> <b><a target="_blank" href="https://rsc4earth.de/authors/mmahecha/">Miguel D. Mahecha</a></b> (Remote Sensing Center for Earth System Research, University of Leipzig, Leipzig, GERMANY)</li>
 <li> <b><a target="_blank" href="https://climatemodeling.org/~rmills/">Richard T. Mills</a></b> (Laboratory for Advanced Numerical Simulations, Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois, USA)</li>
 <li> <b><a target="_blank" href="https://www.srs.fs.usda.gov/staff/429">Steven P. Norman</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li>
 <li> <b><a target="_blank" href="http://sarats.com/">Sarat Sreepathi</a></b> (Computer Science &amp; Mathematics Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
